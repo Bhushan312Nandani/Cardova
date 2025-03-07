@@ -1,0 +1,31 @@
+Here’s a breakdown of the color codes and the parts they refer to in the given design:
+
+1. **Background Color** (Header/Footer, Body):
+   - **Color Code**: #1A1A1A (Dark Gray)
+   - **Part**: Overall background and footer
+
+2. **Overlay Background** (Header Area):
+   - **Color Code**: #2C2C2C (Lighter Dark Gray)
+   - **Part**: Header background behind the site logo/title
+
+3. **Content Background** (Blog and About Sections):
+   - **Color Code**: #3B3B3B (Medium Gray)
+   - **Part**: Background for the blog previews and about areas
+
+4. **Button Color** (Submit Button/Links):
+   - **Color Code**: #4A90E2 (Blue)
+   - **Part**: Button hover and active state
+
+5. **Header Text** (Site Title):
+   - **Color Code**: #FFFFFF (White)
+   - **Part**: Text color for the site name/other headings
+
+6. **Descriptive Text** (Blog and About Content):
+   - **Color Code**: #BFBFBF (Light Gray)
+   - **Part**: Description text within the sections
+
+7. **Links Color** (Navigation/Links):
+   - **Color Code**: #EAEAEA (Very Light Gray)
+   - **Part**: Color for hyperlinks and navigational links
+
+This color scheme creates a modern, sleek aesthetic appropriate for a web design layout. Let me know if you need more details!
